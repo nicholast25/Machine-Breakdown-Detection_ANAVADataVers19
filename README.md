@@ -9,7 +9,3 @@ This project presents our solution for a data science competition on machine bre
 3. Dimensionality Reduction: Implemented Principal Component Analysis (PCA) that represents at least 80% of data variance to enhance model efficiency.
 4. Machine Learning Models: Developed a Random Forest Classifier for robust prediction.
 5. Imbalanced Data Handling: Split data into majority and minority classes to improve model learning.
-
-## Results
-1. Significant Features Identified: RPM-1, Machine Type, and Country of Manufacture had the most impact on failure prediction.
-2. PCA-transformed components PC2, PC7, PC8, PC10, PC12, PC13, PC14, PC15, PC16, PC17, PC18 correlated with machine deterioration.
