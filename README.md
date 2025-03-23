@@ -1,7 +1,7 @@
 # Machine Breakdown Detection - Data Science Competition ANAVA DataVers UGM (Universitas Gadjah Mada)
 
 ## Overview
-This project presents our solution for a data science competition on machine breakdown detection, where our team achieved a Top 9 (waiting list) finish. The objective was to predict machine failures using statistical analysis, feature selection, and machine learning models. Our approach involved handling class imbalance by splitting the dataset into majority and minority cases while ensuring robust evaluation and feature engineering.
+This project presents our solution for a data science competition on machine breakdown detection, in which our team achieved a Top 9 (waiting list) finish. The objective was to predict machine failures using statistical analysis, feature selection, and machine learning models. Our approach involved handling class imbalance by splitting the dataset into majority and minority cases while ensuring robust evaluation and feature engineering.
 
 ## Key Features
 1. Non-Parametric Statistical Testing: Applied Kruskal-Wallis and Chi-Square tests to analyze feature significance.
